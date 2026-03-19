@@ -1,0 +1,6 @@
+.caixa-escura {
+  background-color: rgba(50, 50, 50, 0.7); /* cinza escuro transparente */
+  border-radius: 30px;                     /* bordas arredondadas */
+  padding: 50px;                           /* espaço interno */
+  box-shadow: 0 0 20px rgba(0,0,0,0.6);    /* sombra para destacar */
+}
